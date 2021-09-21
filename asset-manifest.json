@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/smartscan/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/smartscan/static/js/main.26647e61.chunk.js",
-    "main.js.map": "/smartscan/static/js/main.26647e61.chunk.js.map",
-    "runtime-main.js": "/smartscan/static/js/runtime-main.0b434e14.js",
-    "runtime-main.js.map": "/smartscan/static/js/runtime-main.0b434e14.js.map",
-    "static/js/2.bcc793c9.chunk.js": "/smartscan/static/js/2.bcc793c9.chunk.js",
-    "static/js/2.bcc793c9.chunk.js.map": "/smartscan/static/js/2.bcc793c9.chunk.js.map",
-    "static/js/3.925b7191.chunk.js": "/smartscan/static/js/3.925b7191.chunk.js",
-    "static/js/3.925b7191.chunk.js.map": "/smartscan/static/js/3.925b7191.chunk.js.map",
+    "main.css": "/smartscan/static/css/main.3b752dcd.chunk.css",
+    "main.js": "/smartscan/static/js/main.44d0b908.chunk.js",
+    "main.js.map": "/smartscan/static/js/main.44d0b908.chunk.js.map",
+    "runtime-main.js": "/smartscan/static/js/runtime-main.9680f696.js",
+    "runtime-main.js.map": "/smartscan/static/js/runtime-main.9680f696.js.map",
+    "static/css/2.36116324.chunk.css": "/smartscan/static/css/2.36116324.chunk.css",
+    "static/js/2.24559b7c.chunk.js": "/smartscan/static/js/2.24559b7c.chunk.js",
+    "static/js/2.24559b7c.chunk.js.map": "/smartscan/static/js/2.24559b7c.chunk.js.map",
+    "static/js/3.e8227e10.chunk.js": "/smartscan/static/js/3.e8227e10.chunk.js",
+    "static/js/3.e8227e10.chunk.js.map": "/smartscan/static/js/3.e8227e10.chunk.js.map",
     "index.html": "/smartscan/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/smartscan/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.bcc793c9.chunk.js.LICENSE.txt": "/smartscan/static/js/2.bcc793c9.chunk.js.LICENSE.txt"
+    "static/css/2.36116324.chunk.css.map": "/smartscan/static/css/2.36116324.chunk.css.map",
+    "static/css/main.3b752dcd.chunk.css.map": "/smartscan/static/css/main.3b752dcd.chunk.css.map",
+    "static/js/2.24559b7c.chunk.js.LICENSE.txt": "/smartscan/static/js/2.24559b7c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/smartscan/static/media/Ooredoo-Heavy.6adbb0cd.otf",
+    "static/media/e1.a094e44d.png": "/smartscan/static/media/e1.a094e44d.png",
+    "static/media/e3.a2c2b201.png": "/smartscan/static/media/e3.a2c2b201.png",
+    "static/media/font-awesome.min.css": "/smartscan/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/img4.1868c937.png": "/smartscan/static/media/img4.1868c937.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b434e14.js",
-    "static/js/2.bcc793c9.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.26647e61.chunk.js"
+    "static/js/runtime-main.9680f696.js",
+    "static/css/2.36116324.chunk.css",
+    "static/js/2.24559b7c.chunk.js",
+    "static/css/main.3b752dcd.chunk.css",
+    "static/js/main.44d0b908.chunk.js"
   ]
 }
